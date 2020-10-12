@@ -1,0 +1,2 @@
+# CrashDemo
+Qt Crash Demo
